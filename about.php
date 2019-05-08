@@ -3,7 +3,7 @@ require_once 'app/helpers.php';
 $userAuth = user_auth();
 $page_title = 'About US'
 ?>
-<?php include 'tpl/header.php';?>
+<?php include 'tpl/header.php'; ?>
 <main>
   <div class="container">
     <div class="row">
@@ -16,4 +16,6 @@ $page_title = 'About US'
     </div>
   </div>
 </main>
-<?php include 'tpl/footer.php';?>
+<?php include 'tpl/footer.php'; ?>
+
+<!-- dfshdfhdfhdfh -->
